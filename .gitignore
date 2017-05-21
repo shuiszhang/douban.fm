@@ -1,0 +1,5 @@
+node_modules
+my.log
+.DS_Store
+.idea
+node_modules/
