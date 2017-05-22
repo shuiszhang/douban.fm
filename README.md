@@ -27,6 +27,7 @@
 * n 切歌，播放下一首
 * r 标红心
 * u 取消红心
+* space(空格) 切换播放及暂停状态
 
 ## Thanks
 * https://github.com/guo-yu/douban.fm
