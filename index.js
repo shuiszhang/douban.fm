@@ -1,6 +1,4 @@
-/**
- * Created by shuis on 2017/5/10.
- */
+#!/usr/bin/env node
 
 let Fm = require('./lib/fm');
 (new Fm()).run();

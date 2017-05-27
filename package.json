@@ -1,13 +1,15 @@
 {
   "name": "doubanfm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command line interface player of douban.fm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "douban.fm": "node ./index.js"
   },
-  "bin": "./index.js",
+  "bin": {
+    "doubanfm": "./index.js"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
