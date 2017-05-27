@@ -1,6 +1,6 @@
 {
   "name": "doubanfm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Command line interface player of douban.fm",
   "main": "index.js",
   "scripts": {

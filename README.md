@@ -15,10 +15,11 @@
 * Node.js 7.x
 * mplayer
 
-## 使用方法
-* git clone
-* npm i
-* npm run douban.fm
+## 安装
+* npm i doubanfm -g
+
+## 命令行启动
+* doubanfm
 
 ## 快捷键
 * j 光标下移
