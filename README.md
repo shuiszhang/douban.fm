@@ -2,7 +2,7 @@
 * 简洁的豆瓣电台命令行版，基于 Node.js。
 
 ## 截屏
-![image](./douban.fm.png)
+![image](https://raw.githubusercontent.com/shuiszhang/douban.fm/master/douban.fm.png)
 
 ## 功能特性
 * 支持登录
