@@ -13,7 +13,7 @@
 * 支持暂停/恢复播放
 
 ## 依赖
-* Node.js 7.x
+* Node.js 7.6+
 * mplayer
 
 ## 安装
