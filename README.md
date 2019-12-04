@@ -30,7 +30,9 @@
 * r 标记红心
 * u 取消红心
 * b/d 丢垃圾桶
+* q 退出命令行
 * space(空格) 播放/暂停
+
 
 ## Thanks
 * https://github.com/guo-yu/douban.fm
